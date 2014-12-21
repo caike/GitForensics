@@ -1,0 +1,3 @@
+#!/bin/sh
+
+exec bundle exec ruby import_project.rb $1

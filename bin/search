@@ -1,0 +1,4 @@
+#!/bin/sh
+
+exec bundle exec ruby run.rb $1
+
